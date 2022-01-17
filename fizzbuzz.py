@@ -12,4 +12,3 @@ for num in range(user_num):
         print('Fizz')
     else:
         print(num)
-
