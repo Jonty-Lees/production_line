@@ -17,10 +17,10 @@ Run the simulation for 100 steps, and compute how many finished products come of
 
 A few pointers:
 
-• The code does not have to be 'production quality, but we will be looking for evidence that it's written to be somewhat flexible, and that a third party would be able to read and maintain it.
-• Be sure to state (or comment) your assumptions.
-• During the interview, we may ask about the effect of changing certain aspects of the simulation. (E.g. the length of the conveyor belt.)
-• Flexibility in the solution is preferred, but we are also looking for a sensible decision on where this adds too much complexity, (Where wouid it be better to rewrite the code for a diferent scenario, rather than spending much more than the allotted time creating an overly complicated, but very flexible simulation engine?)
+- The code does not have to be 'production quality, but we will be looking for evidence that it's written to be somewhat flexible, and that a third party would be able to read and maintain it.
+- Be sure to state (or comment) your assumptions.
+- During the interview, we may ask about the effect of changing certain aspects of the simulation. (E.g. the length of the conveyor belt.)
+- Flexibility in the solution is preferred, but we are also looking for a sensible decision on where this adds too much complexity, (Where wouid it be better to rewrite the code for a diferent scenario, rather than spending much more than the allotted time creating an overly complicated, but very flexible simulation engine?)
 
 
 
