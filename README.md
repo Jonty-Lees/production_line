@@ -2,6 +2,8 @@
 
 ## Objective
 
+### Production Line
+
 There is a factory production line around a single a conveyor belt.
 Components (of type A and B) come onto the start of the belt at random intervals; workers must take one component of each type from the belt as they come past, and combine them to make a finished product.
 The belt is divided into fixed-size slots; each slot can hold only one component or one finished product. There are a number of worker stations on either side of the belt, spaced to match the size of the slots on the belt.
@@ -22,5 +24,12 @@ A few pointers:
 - During the interview, we may ask about the effect of changing certain aspects of the simulation. (E.g. the length of the conveyor belt.)
 - Flexibility in the solution is preferred, but we are also looking for a sensible decision on where this adds too much complexity, (Where wouid it be better to rewrite the code for a diferent scenario, rather than spending much more than the allotted time creating an overly complicated, but very flexible simulation engine?)
 
+### Fizzbuzz
+
+Create a simple fizzbuzz function that allows prints number from 1 - user inputed number.
+If a number is divisable by 3, print 'Fizz'
+If a number is divisable by 5, print 'Buzz'
+If a number is divasble by 3 & 5, print 'FizzBuzz'
+if not, print the number.
 
 
